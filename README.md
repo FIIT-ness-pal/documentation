@@ -6,45 +6,45 @@
 
 # Návrh databázy
 
-![Navrh DB MTAA-v02.drawio.png](Zadanie%202%20(Mi%CC%81l%CC%8Cnik%201)%20-%20Jakub%20Abrahoim,%20Adam%20Blah%20a3495ea0271b4acba13e9e1a0077f78f/Navrh_DB_MTAA-v02.drawio.png)
+![Navrh DB MTAA-v02.drawio.png](Assets/Navrh_DB_MTAA-v02.drawio.png)
 
 # Wireframy
 
 ## Registrácia
 
-![Registration.png](Zadanie%202%20(Mi%CC%81l%CC%8Cnik%201)%20-%20Jakub%20Abrahoim,%20Adam%20Blah%20a3495ea0271b4acba13e9e1a0077f78f/Registration.png)
+![Registration.png](Assets/Registration.png)
 
 ## Prihlásenie
 
-![Login.png](Zadanie%202%20(Mi%CC%81l%CC%8Cnik%201)%20-%20Jakub%20Abrahoim,%20Adam%20Blah%20a3495ea0271b4acba13e9e1a0077f78f/Login.png)
+![Login.png](Assets/Login.png)
 
 ## Domovská stránka
 
-![Homepage.png](Zadanie%202%20(Mi%CC%81l%CC%8Cnik%201)%20-%20Jakub%20Abrahoim,%20Adam%20Blah%20a3495ea0271b4acba13e9e1a0077f78f/Homepage.png)
+![Homepage.png](Assets/Homepage.png)
 
 ## Profil
 
-![Profil.png](Zadanie%202%20(Mi%CC%81l%CC%8Cnik%201)%20-%20Jakub%20Abrahoim,%20Adam%20Blah%20a3495ea0271b4acba13e9e1a0077f78f/Profil.png)
+![Profil.png](Assets/Profil.png)
 
 ## Vyhľadávanie
 
-![Vyhľadávanie.png](Zadanie%202%20(Mi%CC%81l%CC%8Cnik%201)%20-%20Jakub%20Abrahoim,%20Adam%20Blah%20a3495ea0271b4acba13e9e1a0077f78f/Vyhadvanie.png)
+![Vyhľadávanie.png](Assets/Vyhadvanie.png)
 
 ## Vytvorenie jedla
 
-![Vytvoriť jedlo (1).png](Zadanie%202%20(Mi%CC%81l%CC%8Cnik%201)%20-%20Jakub%20Abrahoim,%20Adam%20Blah%20a3495ea0271b4acba13e9e1a0077f78f/Vytvori_jedlo_(1).png)
+![Vytvoriť jedlo (1).png](Assets/Vytvori_jedlo_(1).png)
 
 ## Detail jedla
 
-![Detaily jedla.png](Zadanie%202%20(Mi%CC%81l%CC%8Cnik%201)%20-%20Jakub%20Abrahoim,%20Adam%20Blah%20a3495ea0271b4acba13e9e1a0077f78f/Detaily_jedla.png)
+![Detaily jedla.png](Assets/Detaily_jedla.png)
 
 ## Detail potraviny
 
-![Detaily potraviny.png](Zadanie%202%20(Mi%CC%81l%CC%8Cnik%201)%20-%20Jakub%20Abrahoim,%20Adam%20Blah%20a3495ea0271b4acba13e9e1a0077f78f/Detaily_potraviny.png)
+![Detaily potraviny.png](Assets/Detaily_potraviny.png)
 
 ## Vytvoriť potravinu
 
-![Vytvoriť potravinu.png](Zadanie%202%20(Mi%CC%81l%CC%8Cnik%201)%20-%20Jakub%20Abrahoim,%20Adam%20Blah%20a3495ea0271b4acba13e9e1a0077f78f/Vytvori_potravinu.png)
+![Vytvoriť potravinu.png](Assets/Vytvori_potravinu.png)
 
 # Testy
 
